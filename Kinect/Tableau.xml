@@ -1,0 +1,38 @@
+<tableau>
+        <object name="Chaos" radius="40">
+                <position x="0" y="0" z="1000">
+                </position>
+        </object>
+        <object name="Code" radius="40">
+                <position x="-210" y="0" z="1000">
+                </position>
+        </object>
+        <object name="Globe" radius="40">
+                <position x="210" y="0" z="1000">
+                </position>
+        </object>
+        <object name="Writing" radius="40">
+                <position x="0" y="-170" z="1000">
+                </position>
+        </object>
+        <object name="Chair" radius="40">
+                <position x="0" y="170" z="1000">
+                </position>
+        </object>
+        <object name="Inside" radius="40">
+                <position x="-210" y="-170" z="1000">
+                </position>
+        </object>
+        <object name="Clock" radius="40">
+                <position x="210" y="-170" z="1000">
+                </position>
+        </object>
+        <object name="Edge" radius="40">
+                <position x="-210" y="170" z="1000">
+                </position>
+        </object>
+        <object name="Photograph" radius="40">
+                <position x="210" y="170" z="1000">
+                </position>
+        </object>
+</tableau>
